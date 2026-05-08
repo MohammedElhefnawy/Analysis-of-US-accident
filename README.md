@@ -13,7 +13,6 @@ The project follows the **Medallion Architecture**:
 - **Gold Layer**: Aggregated and enriched datasets ready for ML and BI.  
 
 ## 🧩 Data Pipeline Diagram
-```markdown
 ```mermaid
 flowchart LR
     A[Bronze Layer: Raw Data]:::bronze --> B[Silver Layer: Cleaned Data]:::silver
@@ -30,8 +29,6 @@ flowchart LR
     classDef forecast fill:#93c47d,stroke:#333,stroke-width:2px;
     classDef bi fill:#f6b26b,stroke:#333,stroke-width:2px;
 ```
-
----
 
 ## 🔍 Features  
 - **Data Cleaning**: Handling missing values, duplicates, and outliers.  
