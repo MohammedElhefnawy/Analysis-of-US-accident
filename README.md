@@ -248,9 +248,9 @@ Analysis-of-US-accident/
 ├── 02_Silver_Layer.ipynb
 ├── 03_Gold_Layer.ipynb
 ├── 04_EDA.ipynb
-├── ml_pipeline_v2.ipynb
-├── predict_api.ipynb
-├── fix_fabric_columns.py
+├── US_Accidents_Final_Training_&_Dashboard.ipynb
+├── 05_Prophet_Forecast
+├── US_Accidents_Prediction_Service.ipynb
 ├── requirements.txt
 └── README.md
 ```
