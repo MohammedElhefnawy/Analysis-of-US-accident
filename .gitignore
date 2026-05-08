@@ -1,6 +1,3 @@
 *.csv
 *.pkl
 *.pbix
-Bronze_Layer/
-Silver_Layer/
-Gold_Layer/
