@@ -30,3 +30,50 @@ The project follows the **Medallion Architecture**:
    ```bash
    git clone https://github.com/MohammedElhefnawy/Analysis-of-US-accident.git
    cd Analysis-of-US-accident
+## Install dependencies:
+   pip install -r requirements.txt
+   
+---
+   
+## Run notebooks in order:
+01_Bronze_Data_Preparation.ipynb
+02_Silver_Data_Cleaning.ipynb
+03_Gold_Data_Modeling.ipynb
+Road feature.ipynb
+US_Accidents_Final_Training_&_Dashboard.ipynb
+05_Prophet_Forecast.ipynb
+US_Accidents_Prediction_Service
+
+---
+
+## 📊 Dashboards & Visuals
+Accident heatmaps by state & city
+Severity distribution across weather conditions
+Forecasted accident trends with confidence intervals
+Drill-down reports from national → state → city → road
+📸 [Add screenshots of Power BI dashboards here]
+
+---
+
+## 📈 Results
+CatBoost model achieved highest accuracy for severity classification.
+Forecasting layer revealed seasonal accident peaks (winter months).
+Power BI dashboards provide actionable insights for policymakers and insurance companies.
+
+---
+
+## 🚀 Future Improvements
+Add Dockerfile for reproducibility.
+Implement CI/CD pipeline with GitHub Actions.
+Explore deep learning models (LSTM) for forecasting.
+Enhance dashboard storytelling with executive summaries.
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
