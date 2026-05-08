@@ -1,0 +1,20 @@
+# data
+*.csv
+*.parquet
+*.pkl
+
+# pipeline outputs
+Bronze_Layer/
+Silver_Layer/
+Gold_Layer/
+Fabric_Layer/
+Models/
+
+# notebook cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
