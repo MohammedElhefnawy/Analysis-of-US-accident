@@ -89,5 +89,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
+## 📂 Dataset Source
+The dataset used in this project is the **US Accidents (March 2023)** dataset, publicly available on [Kaggle](https://www.kaggle.com/datasets/joytuntonny/us-accidents-march23).  
+It contains detailed records of traffic accidents across the United States, including information on location, time, weather, road features, and severity.
+
+---
+
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute the code with proper attribution.  
