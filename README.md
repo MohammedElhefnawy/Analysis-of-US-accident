@@ -50,13 +50,13 @@ flowchart LR
 ---
    
 ## Run notebooks in order:
-  01_Bronze_Data_Preparation.ipynb
-  02_Silver_Data_Cleaning.ipynb
-  03_Gold_Data_Modeling.ipynb
-  Road feature.ipynb
-  US_Accidents_Final_Training_&_Dashboard.ipynb
-  05_Prophet_Forecast.ipynb
-  US_Accidents_Prediction_Service
+- **01_Bronze_Data_Preparation.ipynb**
+- **02_Silver_Data_Cleaning.ipynb**
+- **03_Gold_Data_Modeling.ipynb**
+- **Road feature.ipynb**
+- **US_Accidents_Final_Training_&_Dashboard.ipynb**
+- **05_Prophet_Forecast.ipynb**
+- **US_Accidents_Prediction_Service**
 
 ---
 
