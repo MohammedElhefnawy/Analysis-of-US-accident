@@ -12,7 +12,15 @@ The project follows the **Medallion Architecture**:
 - **Silver Layer**: Cleaned and transformed data (handling missing values, duplicates, normalization).  
 - **Gold Layer**: Aggregated and enriched datasets ready for ML and BI.  
 
-📊 *[Add pipeline diagram here]*  
+📊 ```mermaid
+flowchart LR
+    A[Bronze Layer: Raw Data] --> B[Silver Layer: Cleaned Data]
+    B --> C[Gold Layer: Aggregated Data]
+    C --> D[ML Models: CatBoost, LightGBM, XGBoost]
+    C --> E[Forecasting: Prophet Model]
+    D --> F[Power BI Dashboards]
+    E --> F
+ 
 
 ---
 
