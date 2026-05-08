@@ -12,7 +12,8 @@ The project follows the **Medallion Architecture**:
 - **Silver Layer**: Cleaned and transformed data (handling missing values, duplicates, normalization).  
 - **Gold Layer**: Aggregated and enriched datasets ready for ML and BI.  
 
-📊 ```mermaid
+📊
+```mermaid
 flowchart LR
     A[Bronze Layer: Raw Data] --> B[Silver Layer: Cleaned Data]
     B --> C[Gold Layer: Aggregated Data]
@@ -44,13 +45,13 @@ flowchart LR
 ---
    
 ## Run notebooks in order:
-01_Bronze_Data_Preparation.ipynb
-02_Silver_Data_Cleaning.ipynb
-03_Gold_Data_Modeling.ipynb
-Road feature.ipynb
-US_Accidents_Final_Training_&_Dashboard.ipynb
-05_Prophet_Forecast.ipynb
-US_Accidents_Prediction_Service
+  01_Bronze_Data_Preparation.ipynb
+  02_Silver_Data_Cleaning.ipynb
+  03_Gold_Data_Modeling.ipynb
+  Road feature.ipynb
+  US_Accidents_Final_Training_&_Dashboard.ipynb
+  05_Prophet_Forecast.ipynb
+  US_Accidents_Prediction_Service
 
 ---
 
