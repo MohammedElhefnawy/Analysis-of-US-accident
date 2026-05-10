@@ -53,7 +53,6 @@ flowchart LR
 - **01_Bronze_Data_Preparation.ipynb**
 - **02_Silver_Data_Cleaning.ipynb**
 - **03_Gold_Data_Modeling.ipynb**
-- **Road feature.ipynb**
 - **US_Accidents_Final_Training_&_Dashboard.ipynb**
 - **05_Prophet_Forecast.ipynb**
 - **US_Accidents_Prediction_Service**
@@ -64,18 +63,25 @@ flowchart LR
 
 ### 1. Overview
 ![Overview Dashboard](images/overview.png)
+
 ### 2. Time Analysis
 ![Time Analysis Dashboard](images/time_analysis.png)
+
 ### 3. Geography
 ![Geography Dashboard](images/geography.png)
+
 ### 4. Weather & Environment
 ![Weather Dashboard](images/weather.png)
+
 ### 5. Road Features
 ![Road Features Dashboard](images/road_features.png)
+
 ### 6. Accident Forecast
 ![Forecast Dashboard](images/forecast.png)
+
 ### 7. Predictions
 ![Predictions Dashboard](images/predictions.png)
+
 ### 8. ML Model Results
 ![ML Model Dashboard](images/ml_model.png)
 
