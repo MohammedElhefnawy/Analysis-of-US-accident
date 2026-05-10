@@ -77,15 +77,14 @@ flowchart LR
 ### 5. Road Features
 ![Road Features Dashboard](images/road_features.png)
 
-### 6. ML Model Results
-![ML Model Dashboard](images/ml_model.png)
-
-### 7. Accident Forecast
+### 6. Accident Forecast
 ![Forecast Dashboard](images/forecast.png)
 
-### 8. Predictions
+### 7. Predictions
 ![Predictions Dashboard](images/predictions.png)
 
+### 8. ML Model Results
+![ML Model Dashboard](images/ml_model.png)
 
 ---
 
