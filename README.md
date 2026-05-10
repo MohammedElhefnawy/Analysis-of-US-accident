@@ -64,25 +64,18 @@ flowchart LR
 
 ### 1. Overview
 ![Overview Dashboard](images/overview.png)
-
 ### 2. Time Analysis
 ![Time Analysis Dashboard](images/time_analysis.png)
-
 ### 3. Geography
 ![Geography Dashboard](images/geography.png)
-
 ### 4. Weather & Environment
 ![Weather Dashboard](images/weather.png)
-
 ### 5. Road Features
 ![Road Features Dashboard](images/road_features.png)
-
 ### 6. Accident Forecast
 ![Forecast Dashboard](images/forecast.png)
-
 ### 7. Predictions
 ![Predictions Dashboard](images/predictions.png)
-
 ### 8. ML Model Results
 ![ML Model Dashboard](images/ml_model.png)
 
